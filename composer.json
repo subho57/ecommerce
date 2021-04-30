@@ -15,7 +15,7 @@
         "folklore/image": "0.3.*",
         "joeyrush/better-migrate-seed": "^0.3.0",
         "kyslik/column-sortable": "^6.0",
-        "laravel/framework": "6.0",
+        "laravel/framework": "6.20.26",
         "laravel/helpers": "^1.1",
         "laravel/socialite": "^4.1",
         "laravel/tinker": "^1.0",
